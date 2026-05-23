@@ -109,6 +109,27 @@ gcc main.c view.c edit.c
 ```
 
 ---
+## Usage
+
+```text
+usage: mp3tag -[tTaAycg] "value" file.mp3
+       mp3tag -v file.mp3
+```
+
+---
+
+## OPTIONS
+
+```text
+-t    Modifies a Title tag
+-a    Modifies an Artist tag
+-A    Modifies an Album tag
+-y    Modifies a Year tag
+-c    Modifies a Comment tag
+-g    Modifies a Genre tag
+-h    Displays this help information
+-v    Prints version information
+```
 
 ## Sample Output
 
